@@ -6,6 +6,8 @@
 
 **🔗 Live demo: <https://yu021114.github.io/yans_little_town/>** (nothing to install; works on phones too)
 
+> 💡 **Inspiration**: the idea for this town came from [thousand-town (千人小鎮)](https://github.com/YiHuiShiBY/thousand-town) by 仪绘士BY ([live version](https://yihuishi.com/demos/thousand-town/)) — thanks to the original author for sharing it. This project's code, models and data are all newly written.
+
 Every resident has a home, a job, family and friends, and follows their own week: off to work or school in the morning, lunch at noon, the night market after work, family outings at the weekend. They walk, cycle, ride scooters, drive, take the bus or a taxi, wait at red lights, sit down to eat at the night market and go home to sleep. Tap any building to see who is inside right now; tap any resident to see their day and their relationships, and follow them wherever they go.
 
 ![The town by day](docs/images/town-day.png)
@@ -581,6 +583,5 @@ The one exception is the mayor, 彥彥, who is the author of this project.
 - This project is licensed under the [MIT License](LICENSE)
 - [three.js](https://threejs.org/) r180 (MIT), in `vendor/three/`, unmodified
 - Milky Way panorama: ESO/S. Brunier, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), source <https://www.eso.org/public/images/eso0932a/>
-- The idea of the town was inspired by [thousand-town (千人小鎮)](https://github.com/YiHuiShiBY/thousand-town); this project's code, models and data were all written from scratch
 
 Full licence information for third-party components is in [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).

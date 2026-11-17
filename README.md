@@ -6,6 +6,8 @@
 
 **🔗 線上試玩：<https://yu021114.github.io/yans_little_town/>**（不用安裝，打開就能看，手機也可以）
 
+> 💡 **靈感來源**：這座小鎮的構想來自仪绘士BY 的[《千人小鎮》（thousand-town）](https://github.com/YiHuiShiBY/thousand-town)（[線上版](https://yihuishi.com/demos/thousand-town/)），謝謝原作者的分享與啟發。本專案的程式碼、模型與資料皆為重新撰寫。
+
 每位居民都有自己的家、工作、家人和朋友，照著自己的行程過一週：早上出門上班上學，中午吃飯，下班去夜市，週末全家出遊。他們走路、騎腳踏車、騎機車、開車、搭公車或計程車，在路口等紅綠燈，在夜市坐下來吃東西，晚上回家睡覺。點任何一棟建築，看得到現在裡面有誰；點任何一位居民，看得到他今天的行程和人際關係，還能一路跟著走。
 
 ![白天的小鎮全景](docs/images/town-day.png)
@@ -577,6 +579,5 @@ npm run shot -- "/index.html?welcome=0&minute=1290" .shots/night.png   # 截圖�
 - 本專案以 [MIT License](LICENSE) 授權
 - [three.js](https://threejs.org/) r180（MIT），位於 `vendor/three/`，未經修改
 - 銀河全景圖：ESO/S. Brunier，[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，來源 <https://www.eso.org/public/images/eso0932a/>
-- 小鎮的構想受到 [thousand-town（千人小鎮）](https://github.com/YiHuiShiBY/thousand-town) 啟發；本專案的程式碼、模型與資料皆為重新撰寫
 
 第三方元件的完整授權資訊見 [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md)。
